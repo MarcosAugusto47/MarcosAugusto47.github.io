@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "About me"
+title: "Home"
 ---
-
-I am currently working as a Machine Learning Engineer at ília.
 
 {% if site.show_excerpts %}
   {% include home.html %}
