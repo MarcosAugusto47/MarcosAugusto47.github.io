@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Home"
+layout: page
+title: "Welcome!"
 ---
+
+Aqui vou escrever algo.
 
 {% if site.show_excerpts %}
   {% include home.html %}
