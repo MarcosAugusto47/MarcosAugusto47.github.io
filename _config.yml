@@ -15,7 +15,7 @@ show_sidebar: false       # show a sidebar instead of the usual header
 # Styling
 
 dark_header: true         # always keep the header dark
-minimal: false            # use simpler style
+minimal: true            # use simpler style
 
 # Menu
 
