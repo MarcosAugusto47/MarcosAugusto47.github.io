@@ -22,7 +22,7 @@ minimal: false            # use simpler style
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md"}
+  #- {file: "index.md"}
   - {title: "Cool Site", url: "https://towardsdatascience.com/"}
   - {title: "Blog", file: "blog.md"}
   #- {file: "cv-marcos_augusto.pdf", title: CV}
