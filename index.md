@@ -3,4 +3,4 @@ layout: page
 title: "Welcome!"
 ---
 
-Aqui vou escrever algo.
+This is my webpage! I will document some of my data sciene projects here (check Projects tab) and post some interesting and useful things that I learned along the way (chekc Blog tab).
