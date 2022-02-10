@@ -25,6 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "Cool Site", url: "https://towardsdatascience.com/"}
   - {title: "Projects", file: "projects.md"}
   - {title: "Blog", file: "blog.md"}
+  - {title: "CV", file: "cv.md"}
   #- {file: "cv-marcos_augusto.pdf", title: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
